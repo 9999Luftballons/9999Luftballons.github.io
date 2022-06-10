@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x356E1363897033759181727e4BFf12396c51A7E0",
+  "SCAN_LINK": "https://etherscan.io/address/0x356E1363897033759181727e4BFf12396c51A7E0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "9999 Luftballons",
+  "SYMBOL": "LUFTBALLONS",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/9999-luftballons",
+  "SHOW_BACKGROUND": true
+}
